@@ -1,0 +1,56 @@
+Sorting result
+cpp_sort
+Test 1 took 122 ms
+Test 2 took 97 ms
+Test 3 took 267 ms
+Test 4 took 260 ms
+Test 5 took 260 ms
+Test 6 took 273 ms
+Test 7 took 264 ms
+Test 8 took 273 ms
+Test 9 took 270 ms
+Test 10 took 274 ms
+heap_sort
+Test 1 took 463 ms
+Test 2 took 446 ms
+Test 3 took 610 ms
+Test 4 took 609 ms
+Test 5 took 608 ms
+Test 6 took 599 ms
+Test 7 took 600 ms
+Test 8 took 607 ms
+Test 9 took 598 ms
+Test 10 took 649 ms
+merge_sort
+Test 1 took 144 ms
+Test 2 took 143 ms
+Test 3 took 243 ms
+Test 4 took 261 ms
+Test 5 took 263 ms
+Test 6 took 251 ms
+Test 7 took 242 ms
+Test 8 took 241 ms
+Test 9 took 244 ms
+Test 10 took 251 ms
+quick_sort
+Test 1 took 46 ms
+Test 2 took 58 ms
+Test 3 took 203 ms
+Test 4 took 202 ms
+Test 5 took 218 ms
+Test 6 took 221 ms
+Test 7 took 225 ms
+Test 8 took 202 ms
+Test 9 took 200 ms
+Test 10 took 218 ms
+numpy_sort
+Test 1 took 84 ms
+Test 2 took 105 ms
+Test 3 took 142 ms
+Test 4 took 153 ms
+Test 5 took 141 ms
+Test 6 took 139 ms
+Test 7 took 138 ms
+Test 8 took 146 ms
+Test 9 took 153 ms
+Test 10 took 152 ms
